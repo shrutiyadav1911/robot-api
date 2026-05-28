@@ -1,7 +1,6 @@
 import google.cloud.dialogflow_v2 as dialogflow
 import google.cloud.speech as speech
 from flask import jsonify, make_response
-app = Flask(__name__)
 import base64
 import os
 import traceback
