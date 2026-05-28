@@ -1,4 +1,3 @@
 google-cloud-dialogflow
 google-cloud-speech
 flask
-functions_frameworks
